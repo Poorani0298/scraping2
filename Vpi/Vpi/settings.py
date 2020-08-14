@@ -1,7 +1,7 @@
 #Export as CSV Feed FEED_FORMAT = "csv" FEED_URI = "your csv name.csv"
 #Export as CSV Feed
 FEED_FORMAT = "csv"
-FEED_URI = "your csv name.csv"# Scrapy settings for Vpi project
+FEED_URI = "your name.csv"# Scrapy settings for Vpi project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
